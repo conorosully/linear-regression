@@ -1,7 +1,7 @@
 # linear-regression
 
 <br>
-A simple linear regression analysis with <b>house price of unit area</b> as the target variable (i.e. Y variable) 
+A simple linear regression analysis with <b>house price of unit area</b> as the target variable
 <br>
 <br>
 Considering:
@@ -13,7 +13,7 @@ Considering:
 <li> latitude (unit: degree)
 <li> longitude (unit: degree)
 </ul>
-as the explanatory variables (i.e. X variables).
+as the explanatory variables
 <br>
 <br>
 <b>Download dataset:</b> http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
